@@ -1,0 +1,14 @@
+{
+  "name": "babel-transform-remove-strict-directive",
+  "version": "1.0.0",
+  "description": "remove 'use strict' directive",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "Seven",
+  "license": "MIT",
+  "keywords": [
+    "babel-plugin"
+  ]
+}
