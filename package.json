@@ -1,5 +1,5 @@
 {
-  "name": "babel-transform-remove-strict-directive",
+  "name": "babel-plugin-transform-remove-strict-directive",
   "version": "0.0.1",
   "description": "remove 'use strict' directive",
   "main": "lib/index.js",
