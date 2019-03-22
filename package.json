@@ -1,6 +1,6 @@
 {
   "name": "babel-transform-remove-strict-directive",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "remove 'use strict' directive",
   "main": "lib/index.js",
   "directories": {
